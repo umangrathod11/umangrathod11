@@ -1,4 +1,4 @@
-# Project Name
+[[# Project Name
 
 A brief description of the project goes here.
 
@@ -30,3 +30,7 @@ Describe how to use the project or provide some examples:
 
 ```bash
 $ npm start
+](https://img.shields.io/badge/LinkedIn-blue
+)https://img.shields.io/badge/LinkedIn-blue
+](https://img.shields.io/badge/LinkedIn-blue
+)https://img.shields.io/badge/LinkedIn-blue
